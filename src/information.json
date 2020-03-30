@@ -1,0 +1,43 @@
+[
+    {
+     "heading": "In Planning Trips",
+     "iconName": "event_note",
+     "iconColor": "brown"
+    } ,
+    {
+     "heading": "Completed Trips",
+     "iconName": "check_box",
+     "iconColor": "#19C928"
+    } ,
+    {
+     "heading": "Planning Graph"
+    },
+    {
+     "heading": "Engaged Trips",
+    "iconName": "chat",
+     "iconColor": "gray"
+    },
+    {
+        "heading": "Ratings",
+       "iconName": "chat",
+        "iconColor": "gray"
+    },
+    {
+        "heading": "Engaged Trips",
+       "iconName": "chat",
+        "iconColor": "gray"
+    },
+    {
+        "heading": "Engaged Trips",
+       "iconName": "chat",
+        "iconColor": "gray"
+    },
+    {
+        "heading": "Engaged Trips",
+       "iconName": "chat",
+        "iconColor": "gray"
+    }
+    
+]
+
+

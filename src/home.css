@@ -1,0 +1,221 @@
+.padding_0{
+    padding:0px !important;
+}
+.parent_style_short{
+    height: 240px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px 0 rgba(10, 10, 20, 0.19);
+    background-color: white;
+}
+.parent_style_long{
+    height: 500px;
+    border-radius: 8px;
+    box-shadow: 0 2px 4px 0 rgba(10, 10, 20, 0.19);
+    background-color: white;
+}
+.heading_style_outer{
+  border-radius: 8px;
+  background-color: #f8fafb;
+  padding: 0px 0px 4px 14px !important;
+}
+.heading_style{
+  font-family: SFProText;
+  font-size: 12px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: normal;
+  letter-spacing: normal;
+  color: #637f92;
+  padding-left: 10px !important;
+}
+.icon_calender{
+    font-size: 12px;
+    vertical-align: middle;
+    color: brown;
+}
+.hello_heading{
+        width: 204px;
+        height: 26px;
+        font-family: SFProText;
+        font-size: 16px;
+        font-weight: 600;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        color: var(--Airblack);
+        padding-left: 20px !important;
+}
+.icon_checkbox{
+    font-size: 12px;
+    vertical-align: middle;
+    color: #19C928;
+}
+.icon_calender{
+    font-size: 12px;
+    vertical-align: middle;
+    color: brown;
+}
+.icon_common{
+    font-size: 12px;
+    vertical-align: middle;
+}
+.body_style{
+    background-color: #F0F4F7;
+}
+.padding_around{
+    padding: 10px 10px  !important;
+}
+.padding_left_20{
+    padding-left: 20px !important;
+}
+.padding_right_20{
+    padding-right: 20px !important;
+}
+.number
+{
+    font-family: SFProText;
+    font-size: 54px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+    padding-top: 30px !important;
+
+  }
+  .number_custom
+{
+    font-family: SFProText;
+    font-size: 54px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+    padding-top: 60px !important;
+
+  }
+  .subnumber{
+    
+        width: 36px;
+        height: 34px;
+        font-family: SFProText;
+        font-size: 28px;
+        font-weight: normal;
+        font-stretch: normal;
+        font-style: normal;
+        line-height: normal;
+        letter-spacing: normal;
+        text-align: center;
+        color: #000000;
+      }
+.subhead{
+    width: 83px;
+    height: 14px;
+    font-family: SFProText;
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #000000;
+  
+}
+.numberbackground{
+  border-radius: 6px;
+  border: solid 0.5px #cdd7e0;
+  background-color: #f8fafb;
+  border-top-right-radius: 0px;
+  border-bottom-right-radius: 0px;
+  padding: 6px 0px !important;
+
+}
+.numberbackground_2{
+    border-radius: 6px;
+  border: solid 0.5px #cdd7e0;
+  background-color: #f8fafb;
+  border-top-left-radius: 0px;
+  border-bottom-left-radius: 0px;
+  padding: 6px 0px !important;
+
+}
+.numberbackground_lower{
+    border-radius: 6px;
+    border: solid 0.5px #cdd7e0;
+    background-color: #f8fafb;
+    border-top-right-radius: 0px;
+    border-bottom-right-radius: 0px;
+    padding: 16px 0px !important;
+  
+  }
+  .numberbackground__lower2{
+      border-radius: 6px;
+    border: solid 0.5px #cdd7e0;
+    background-color: #f8fafb;
+    border-top-left-radius: 0px;
+    border-bottom-left-radius: 0px;
+    padding: 16px 0px !important;
+  
+  }
+.viewAll {
+    font-family: SFProText;
+    font-size: 13px;
+    font-weight: normal;
+    letter-spacing: normal;
+    color: #79163c;
+    padding-top: 60px !important;
+  }
+  .image_style{
+      width: 100%;
+  }
+  .engaged_trips {
+    font-family: SFProText;
+    font-size: 13px;
+    font-weight: normal;
+    letter-spacing: normal;
+    color: black;
+    padding-top: 30px !important;
+  }
+  .achieved{
+    font-family: SFProText;
+    font-size: 14px;
+    font-weight: 600;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: normal;
+    letter-spacing: normal;
+    text-align: center;
+    color: #64c532;
+  }
+  .primary{
+    font-size: 12px;
+    font-weight: 700;
+    color: #0a0a14;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: clip;
+    text-align: left !important;
+  }
+  .secondary{
+    font-size: 11px;
+    color: #637f92;
+    text-align: left !important;
+  }
+  .priSecParent{
+    padding: 10px 0px !important;
+    border-bottom: 1px solid #80808063;
+  }
+  .overflow_style{
+
+    overflow-y: scroll;
+    height: 460px;
+  }
+
+
+  
