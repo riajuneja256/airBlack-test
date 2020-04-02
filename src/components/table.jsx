@@ -62,10 +62,7 @@ class Table extends React.Component{
                             )):console.log("sorry")
                         
         )):'';
-        var a = endDate.map(el => (
-            el
-            
-        ))
+       
  
         return(
             <div className="row">
